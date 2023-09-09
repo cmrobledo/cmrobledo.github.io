@@ -3,4 +3,4 @@ Esta es la historia de CM
 Tiene 44 años y esta intentando aprender
 HTML, ya sabe esto
 CSS, también esto
-JAVASCRIPT
+JAVASCRIPT, y ya aprendió esto también
